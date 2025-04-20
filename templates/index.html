@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infinite Tic Tac Toe</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>Infinite Tic Tac Toe</h1>
+                <div class="theme-toggle">
+                    <button id="theme-toggle-btn">
+                        <span class="toggle-icon">🌙</span>
+                    </button>
+                </div>
+            </div>
+            <div class="game-description">
+                <p>Challenge your friends in this classic game with a modern twist! Take turns placing X and O on the grid. First player to get three in a row wins the round. Play infinitely with automatic score tracking!</p>
+            </div>
+        </header>
+
+        <main>
+            <div class="game-info">
+                <div class="player-turn">
+                    <span id="current-player">Player X's Turn</span>
+                </div>
+                <div class="round-display">
+                    <span>Round</span>
+                    <span id="round-number">1</span>
+                </div>
+            </div>
+
+            <div id="board" class="board"></div>
+
+            <div id="game-message" class="game-message hidden">
+                <p id="message-text"></p>
+            </div>
+        </main>
+
+        <footer>
+            <div class="scoreboard">
+                <div class="score player-x">
+                    <span class="player-label">Player X</span>
+                    <span id="score-x" class="score-value">0</span>
+                </div>
+                <div class="score player-o">
+                    <span class="player-label">Player O</span>
+                    <span id="score-o" class="score-value">0</span>
+                </div>
+            </div>
+            <div class="controls">
+                <button id="restart-btn" class="btn">Restart Round</button>
+                <button id="new-game-btn" class="btn">New Game</button>
+            </div>
+            <div class="footer-content">
+                <p>© 2025 Infinite Tic Tac Toe | Made with ❤️ | Play responsibly and have fun!</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</body>
+</html>
