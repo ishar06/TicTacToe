@@ -1,7 +1,7 @@
 
 # ♾️ Infinite Tic Tac Toe
 
-Infinite Tic Tac Toe is a Python-based game that takes the classic Tic Tac Toe to the next level by allowing **n × n** sized boards — making the game more challenging, customizable, and fun! This project showcases Python OOP principles, dynamic gameplay, and interactive programming.
+Infinite Tic Tac Toe takes the classic Tic Tac Toe game to the next level by offering an infinite number of rounds, real-time score updates, and dynamic round transitions. With an intuitive user interface and seamless user experience, this game enhances the traditional gameplay with a focus on fun, challenge, and engaging interactions. The project is designed to provide an enjoyable and visually appealing experience for players.
 
 ---
 
@@ -81,6 +81,13 @@ Infinite_TicTacToe/
 - Two-player **interactive web interface**
 - Clean, modular file structure for easy maintainability
 - Well-commented and readable codebase
+  
+- **Infinite Rounds** – Play endlessly and keep track of your score across rounds
+- Live Score & Round Updates – Scores and round count update dynamically after each game
+- Two-Player Mode – Local multiplayer for quick, fun duels
+- Intuitive UI/UX – Clean layout with responsive design and visual feedback
+- Clean Codebase – Modular structure with easy-to-follow, well-commented code
+- Fast & Lightweight – No frameworks, pure HTML, CSS, and **JavaScript**
 
 ---
 
