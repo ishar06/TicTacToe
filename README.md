@@ -13,6 +13,8 @@ To run this project locally, follow the steps below:
 
 ```bash
 git clone https://github.com/ishar06/TicTacToe.git
+```
+```bash
 cd TicTacToe
 ```
 
