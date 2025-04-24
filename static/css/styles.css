@@ -1,4 +1,4 @@
-/* Base styles and variables */
+/* Base styles and variables | Light Mode settings */
 :root {
     --primary-color: #6c5ce7;
     --secondary-color: #00cec9;
@@ -16,7 +16,7 @@
     --footer-bg: linear-gradient(135deg, #6c5ce7 0%, #a29bfe 100%);
   }
   
-  /* Dark mode variables */
+  /* Dark mode variables | Dark mode settings */
   .dark-mode {
     --primary-color: #a29bfe;
     --secondary-color: #00cec9;
