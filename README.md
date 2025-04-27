@@ -117,10 +117,6 @@ Infinite_TicTacToe/
 
 ---
 
-## 👨‍💻 About Me
-
-
-
 ## 👨‍💻 About the Developer
 
 I am **Ishardeep Singh**, a dedicated and passionate developer pursuing a specialization in **Computer Science and Artificial Intelligence**. I have a strong interest in building innovative, real-time interactive applications that combine **computer vision**, **AI**, and **user-centered design**.
