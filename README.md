@@ -5,9 +5,6 @@ Infinite Tic Tac Toe takes the classic Tic Tac Toe game to the next level by off
 
 ---
 
-## 🚀 Getting Started
-
-
 ## 🚀 How to Set Up and Run Infinite TicTacToe Locally
 
 Follow these steps to download, install dependencies, and run the game on your local machine:
@@ -121,19 +118,30 @@ Infinite_TicTacToe/
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ishardeep Singh** — a Computer Science undergraduate specializing in **Artificial Intelligence** at **Chitkara University, Punjab**. I’m passionate about:
 
-- **Game development**
-- **Building web and AI-powered applications**
-- **Creating clean, scalable, and user-centric code**
+
+## 👨‍💻 About the Developer
+
+I am **Ishardeep Singh**, a dedicated and passionate developer pursuing a specialization in **Computer Science and Artificial Intelligence**. I have a strong interest in building innovative, real-time interactive applications that combine **computer vision**, **AI**, and **user-centered design**.
 
 I created this project to demonstrate my skills in web development, object-oriented architecture, and interactive game design using Python and Flask.
 
-### 🔗 Let's Connect
+I specialize in **Python development**, with experience in frameworks such as **OpenCV**, **MediaPipe**, **Flask**, and **Django**, alongside a growing skillset in **web development technologies** like **HTML**, **CSS**, **JavaScript**, and the **MERN Stack**.  
+Through projects like **PopShot**, I aim to solve real-world problems while keeping the user experience intuitive, engaging, and technically robust.
 
-- [LinkedIn](https://www.linkedin.com/in/ishardeep-singh-743789311/)
-- [GitHub](https://github.com/ishar06)
-- [Email](mailto:singhishardeep06@gmail.com)
+**Skills:**  
+- Programming Languages: Python, C, C++, JavaScript  
+- Technologies & Frameworks: OpenCV, MediaPipe, Flask, Django, React (beginner)  
+- Areas of Interest: Computer Vision, AI/ML, Full-Stack Web Development, Game Development  
+- Soft Skills: Public Speaking, Team Leadership, Project Management, Problem Solving
+
+**Contact Information:**  
+- 📧 **Email:** [singhishardeep06@gmail.com](mailto:singhishardeep06@gmail.com)  
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1po4uWr4dNxJgwc0See9ZqO10V4kicWgy/view?usp=sharing)  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/ishardeep-singh-743789311/](https://www.linkedin.com/in/ishardeep-singh-743789311/)
+
+> 🔍 I am actively seeking opportunities to contribute to exciting projects, internships, and roles that align with my passion for technology and innovation. Let's connect!
+
 
 ---
 
