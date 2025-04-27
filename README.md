@@ -7,9 +7,34 @@ Infinite Tic Tac Toe takes the classic Tic Tac Toe game to the next level by off
 
 ## 🚀 Getting Started
 
-To run this project locally, follow the steps below:
 
-### 1. Clone the Repository
+## 🚀 How to Set Up and Run Infinite TicTacToe Locally
+
+Follow these steps to download, install dependencies, and run the game on your local machine:
+
+### 1. Install Python First (Important!)
+
+If you don't have Python installed:
+- Download Python from the official site: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+**Windows Users:**
+- Download the "Windows installer (64-bit)".
+- During installation, **make sure to tick the box** that says "**Add Python to PATH**" before clicking Install Now.
+
+**Mac Users:**
+- MacOS usually comes with Python pre-installed, but it's often outdated.
+- It's recommended to install the latest version via [https://www.python.org/downloads/macos/](https://www.python.org/downloads/macos/)
+- After installation, you may need to use `python3` and `pip3` instead of `python` and `pip`.
+
+To verify Python installation:
+Open the terminal of your computer and write the following command:
+```bash
+python --version
+# or for Mac
+python3 --version
+```
+
+### 2. Clone the Repository
 
 ```bash
 git clone https://github.com/ishar06/TicTacToe.git
@@ -18,7 +43,7 @@ git clone https://github.com/ishar06/TicTacToe.git
 cd TicTacToe
 ```
 
-### 2. Create a Virtual Environment (recommended)
+### 3. Create a Virtual Environment (recommended)
 
 ```bash
 python3 -m venv venv
@@ -34,7 +59,7 @@ source venv/bin/activate
 venv\Scripts\activate     
 ```
 
-### 3. Install Dependencies
+### 4. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -42,7 +67,7 @@ pip install -r requirements.txt
 
 > Note: If `requirements.txt` is empty or missing, the project might not need external dependencies.
 
-### 4. Run the Game
+### 5. Run the Game
 
 ```bash
 python app.py
