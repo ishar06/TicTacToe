@@ -86,6 +86,7 @@ Infinite_TicTacToe/
 │   └── js/
 │       └── scripts.js    # Game logic and interactivity in JS
 ├── requirements.txt      # Python dependencies
+├── LICENSE               # MIT License
 └── README.md             # Project documentation
 ```
 
