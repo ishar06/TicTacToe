@@ -22,11 +22,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const gameMessageElement = document.getElementById("game-message");
   const messageTextElement = document.getElementById("message-text");
 
-  // Sounds
+
   const clickSound = new Audio("https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8b6b56a19.mp3");
   const winSound = new Audio("https://cdn.pixabay.com/download/audio/2022/03/15/audio_2bffcd0b66.mp3");
 
-  // Initialize Game
+
   function initializeBoard() {
       boardElement.innerHTML = "";
       boardElement.style.gridTemplateColumns = `repeat(${gameState.boardSize}, 1fr)`;
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const size = gameState.boardSize;
       const lines = [];
 
-      // Rows and Columns
+
       for (let i = 0; i < size; i++) {
           lines.push([...Array(size)].map((_, j) => i * size + j)); // rows
           lines.push([...Array(size)].map((_, j) => i + size * j)); // columns
